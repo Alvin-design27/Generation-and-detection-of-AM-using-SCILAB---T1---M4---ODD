@@ -86,6 +86,9 @@ Compare the original modulating signal with the demodulated signal.
 
 <img width="720" height="1280" alt="WhatsApp Image 2026-09-24 at 11 50 36 AM" src="https://github.com/user-attachments/assets/2339ae86-7e41-473a-9755-d574b05dc6ff" />
 
+# CODE
+<img width="1080" height="1151" alt="WhatsApp Image 2026-09-24 at 12 41 21 PM" src="https://github.com/user-attachments/assets/75419dae-7d83-4139-a3db-681d83fda6f5" />
+
 # GRAPH:
 
 <img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/ed3162b3-ef16-40c8-8d50-656f4e34f111" />
